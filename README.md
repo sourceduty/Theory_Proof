@@ -8,5 +8,14 @@ Theory Solver approaches the task of solving theories through a combination of l
 
 In summary, Theory Solver is a valuable resource for anyone looking to master complex theoretical concepts. By offering detailed explanations, encouraging critical thinking, and employing a structured analytical approach, Theory Solver not only makes theories more accessible but also enriches the learning experience. Whether you are a student, a researcher, or simply a curious mind, Theory Solver is equipped to guide you through the intricate world of theoretical knowledge, helping you to unlock deeper insights and develop a greater appreciation for the subject matter.
 
+#
+### Related Links
+
+[Theory Solver](https://chatgpt.com/g/g-7Xrh3rjDS-theory-solver)
+<br>
+[Theorem Proof](https://chatgpt.com/g/g-WuFNdZgXe-theorem-proof)
+<br>
+[Math Simulator](https://chatgpt.com/g/g-zTaJwyddy-math-simulator)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
