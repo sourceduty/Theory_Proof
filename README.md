@@ -13,6 +13,8 @@ In summary, Theory Solver is a valuable resource for anyone looking to master co
 
 [The Big Bang Theory.txt](https://github.com/sourceduty/Theory_Solver/files/15379598/The.Big.Bang.Theory.txt)
 
+[chaos_theory.txt](https://github.com/sourceduty/Theory_Solver/files/15379643/chaos_theory.txt)
+
 #
 ### Related Links
 
